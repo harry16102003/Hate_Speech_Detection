@@ -24,7 +24,7 @@ pip install pandas numpy seaborn matplotlib nltk scikit-learn
 * Text length insights: Hate speech tweets tend to have longer lengths.
 * Model performance: Evaluation of different models for accuracy and precision.
 
-##Future Improvements
+## Future Improvements
 * Implement deep learning models (e.g., LSTMs, Transformers) for better accuracy.
 * Improve dataset balancing techniques.
 * Deploy the model as a web application.
