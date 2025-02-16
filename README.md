@@ -16,8 +16,8 @@ The dataset used is HateSpeechData.csv, which contains tweets labeled for hate s
 * Machine Learning Models: Implementation of classifiers to predict hate
 
 ## Dependencies
-To run this project, install the required dependencies:
-pip install pandas numpy seaborn matplotlib nltk scikit-learn
+To run this project, install the required dependencies:<br>
+<b>pip install pandas numpy seaborn matplotlib nltk scikit-learn</b>
 
 ## Results
 * Class imbalance: The dataset is skewed, with more instances in class-1.
